@@ -1,7 +1,4 @@
 
-Контакты партнёров
-<div class="widget">
-
 <div class="header">
     <h2>Контакты партнёров</h2>
 </div>
