@@ -96,6 +96,34 @@ placeholder="Поиск банка, компании или менеджера"
     </div>
 </div>
 
+<div class="card" data-search="БЖФ ольга и Оксана">
+    <h3>БЖФ</h3>
+
+    <p><b>Гирева Оксана Владимировна</b></p>
+
+    <a href="tel:+7900000000">
+        +7 925 007-80-53
+    </a>
+
+    <a href="mailto:test@test.ru">
+        o.gireva@bgf-bank.ru 
+
+    <p><b>Ольга Александрович</b></p>
+    <p>Руководитель регионального развития партнерских продаж</p>
+
+    <a href="tel:+7900000000">
+        +7 (800) 555-00-26 (доб. 6188)
+        +7 912 799 39 11
+    </a>
+
+    <a href="mailto:test@test.ru">
+        o.aleksandrovich@bgf-bank.ru
+    </a>
+    <div class="note">
+        Санкт-Петербург
+    </div>
+</div>
+
 <!-- СТРАХОВАНИЕ -->
 
 <div id="insurance" class="tab-content">
