@@ -1,5 +1,4 @@
 <h2>Контакты партнёров</h2>
-</div>
 
 <div class="tabs">
     <button class="tab active" onclick="openTab('banks')">
@@ -22,22 +21,22 @@ placeholder="Поиск банка, компании или менеджера"
 
 <div id="banks" class="tab-content active">
 
-<div class="card" data-search="сбербанк ипотека иван">
+<div class="card" data-search="абсолютбанк ипотека Надима">
     <h3>Сбербанк</h3>
 
-    <p><b>Иван Петров</b></p>
-    <p>Партнёрский менеджер</p>
+    <p><b>Надима Батыровна</b></p>
+    <p>Начальник управления партнерских программ</p>
 
     <a href="tel:+7900000000">
-        +7 900 000-00-00
+        +7 911 775-57-86
     </a>
 
     <a href="mailto:test@test.ru">
-        test@test.ru
+        n.kenzhebaeva@absolutbank.ru
     </a>
 
     <div class="note">
-        Звонить до 18:00
+        Санкт-Петербург
     </div>
 </div>
 
