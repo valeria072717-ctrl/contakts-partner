@@ -165,6 +165,55 @@ placeholder="Поиск банка, компании или менеджера"
     </div>
 </div>
 
+<div class="card" data-search="домрф вера">
+    <h3>Дом.рф</h3>
+
+    <p><b>Окорокова Вера Владимировна</b></p>
+    <p>Руководитель направления | Развитие партнерских продаж</p>
+
+    <a href="tel:+7900000000">
+        +7 921 396-38-18
+    </a>
+
+    <a href="mailto:test@test.ru">
+        vera.okorokova@domrf.ru
+    </a>
+
+    <div class="note">
+        Санкт-Петербург
+    </div>
+</div>
+
+<div class="card" data-search="ипотека 24">
+    <h3>Ипотека 24</h3>
+
+    <p><b>Ячменева Наталья</b></p>
+    <p>Руководитель ипотечного центра</p>
+
+    <a href="tel:+7900000000">
+        +7 981 962-27-79
+    </a>
+
+    <a href="mailto:test@test.ru">
+        b2bspb@ipoteka24.ru
+    </a>
+
+     <p><b>Задорожная Елена</b></p>
+    <p>Руководитель отдела продаж</p>
+
+    <a href="tel:+7900000000">
+        +7 911 293-68-96
+    </a>
+
+    <a href="mailto:test@test.ru">
+        e.zadorozhnaya@ipoteka24.ru
+    </a>
+
+    <div class="note">
+        Санкт-Петербург
+    </div>
+</div>
+
 <!-- СТРАХОВАНИЕ -->
 
 <div id="insurance" class="tab-content">
