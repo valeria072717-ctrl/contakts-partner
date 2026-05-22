@@ -233,6 +233,44 @@ placeholder="Поиск банка, компании или менеджера"
     </div>
 </div>
 
+<div class="card" data-search="мкб">
+    <h3>МКБ</h3>
+
+    <p><b>Лукьянова Татьяна Владимировна</b></p>
+    <p>Руководитель направления по работе с Партнерами</p>
+
+    <a href="tel:+7900000000">
+        +7 903 526-46-00
+    </a>
+
+    <a href="mailto:test@test.ru">
+        LukyanovaTV@mkb.ru
+    </a>
+
+    <div class="note">
+        Москва
+    </div>
+</div>
+
+<div class="card" data-search="мкб">
+    <h3>МКБ</h3>
+
+    <p><b>Маркин Виталий Владимирович</b></p>
+    <p>Территориальный директор</p>
+
+    <a href="tel:+7900000000">
+        +7 911 182-02-37
+    </a>
+
+    <a href="mailto:test@test.ru">
+        MarkinV@mkb.ru
+    </a>
+
+    <div class="note">
+        Санкт-Петербург
+    </div>
+</div>
+
 <!-- СТРАХОВАНИЕ -->
 
 <div id="insurance" class="tab-content">
