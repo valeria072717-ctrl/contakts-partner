@@ -124,6 +124,47 @@ placeholder="Поиск банка, компании или менеджера"
     </div>
 </div>
 
+<div class="card" data-search="ВТБ Роман">
+    <h3>ВТБ</h3>
+
+    <p><b>Коханчук Роман Олегович</b></p>
+    <p>Эксперт отдела развития ипотечного бизнеса </p>
+
+    <a href="tel:+7900000000">
+        +7 950 038-51-48
+    </a>
+
+    <a href="mailto:test@test.ru">
+        kohanchuk@vtb.ru
+    </a>
+
+    <div class="note">
+        Санкт-Петербург
+    </div>
+</div>
+
+<div class="card" data-search="газпромбанк Ольга">
+    <h3>Газпромбанк</h3>
+
+    <p><b>Зайцева Ольга Геннадьевна</b></p>
+    <p>Директор проекта 
+       Управление развития ипотечных продаж</p>
+
+    <a href="tel:+7900000000">
+        +7 921 409-74-54
+        +7 (812) 622-04-56 доб.4968
+    </a>
+
+    <a href="mailto:test@test.ru">
+        olga.g.zaytseva@gazprombank.ru
+
+    </a>
+
+    <div class="note">
+        Санкт-Петербург
+    </div>
+</div>
+
 <!-- СТРАХОВАНИЕ -->
 
 <div id="insurance" class="tab-content">
