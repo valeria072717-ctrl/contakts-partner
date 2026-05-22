@@ -40,6 +40,25 @@ placeholder="Поиск банка, компании или менеджера"
     </div>
 </div>
 
+<div class="card" data-search="абсолютбанк ипотека Надима">
+    <h3>АкБарсБанк</h3>
+
+    <p><b>Каюмова Ольга Юрьевна</b></p>
+    <p>Менеджер направления партнерского канала Западного РЦ</p>
+
+    <a href="tel:+7900000000">
+        +7 921 988-12-37
+        +7 981 112-41-26
+    </a>
+
+    <a href="mailto:test@test.ru">
+        olga.kayumova@akbars.ru
+    </a>
+
+    <div class="note">
+        Санкт-Петербург
+    </div>
+</div>
 
 <div class="card" data-search="втб мария">
 
