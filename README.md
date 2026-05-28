@@ -360,7 +360,7 @@ placeholder="Поиск банка, компании или менеджера"
     </a>
 
     <a href="mailto:test@test.ru">
-        v.p.brovkov@abr.ru
+        partner@abr.ru
     </a>
 
     <div class="note">
